@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="user_img" type="id" />
+    <item name="llname" type="id" />
+    <item name="u_name" type="id" />
+    <item name="ll_mid" type="id" />
+    <item name="tv_mid" type="id" />
+    <item name="u_contact_number" type="id" />
+    <item name="llcall" type="id" />
+    <item name="u_address" type="id" />
+    <item name="u_emailaddress" type="id" />
+</resources>

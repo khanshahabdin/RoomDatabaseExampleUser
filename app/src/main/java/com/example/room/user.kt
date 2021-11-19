@@ -1,0 +1,14 @@
+package com.example.room
+
+import androidx.room.Entity
+import androidx.room.PrimaryKey
+
+
+@Entity(tableName = "user_table1")
+data class user(
+    @PrimaryKey(autoGenerate = true)
+    val id: Int,
+    val name: String,
+    val email: String,
+    val mobile: String
+)
